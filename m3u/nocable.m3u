@@ -48,9 +48,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPT
 #EXTINF:-1 ,Ocho TV - MEXICO
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 
-#EXTINF:-1,La Sexta - ESPANA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
 #EXTINF:-1,Telemundo - USA
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 
@@ -92,18 +89,6 @@ http://j.gs/11042797/cartoon-network-stbox-m3u8
 #EXTINF:-1,[COLOR yellow]——Canales de Cable——[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,WARNER
-http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1,FOX LIFE
-http://201.161.59.7/foxlife.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1,WOBI
-http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1,LIFETIME
-http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8
-
 
 #EXTINF:-1,T.B.BOX,De Pelicula HD
 http://j.gs/11042797/de-pelicula-hd-s-t-box-m3u8
@@ -122,26 +107,6 @@ http://0.0.0.0:1234
 #EXTINF:-1,Bein Sports Español 
 http://beinsportgeo.hls.adaptive.level3.net/apple/overon/beinsportgeo/bein_spa/wifi.m3u8
 
-#EXTINF:-1,ESPN
-http://iptv.latino-webtv.com/stalker.php?ch=ESPNLA&id=2487
-
-#EXTINF:-1,ESPN 2
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN2LASD&id=301
-
-#EXTINF:-1,ESPN 3
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN3LASD&id=3806
-
-#EXTINF:-1,Fox Sports
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
-
-#EXTINF:-1,Fox Sports 2
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSports2SD&id=475
-
-#EXTINF:-1,Fox Sports 3
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSports3SD&id=3806
-
-#EXTINF:-1,T.B.BOX,Fox Sports
-http://j.gs/11042797/fox-sports-s-t-box-m3u8
 
 #EXTINF:-1,TYC SPORTS
 http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
