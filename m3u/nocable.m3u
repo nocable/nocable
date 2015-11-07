@@ -24,24 +24,96 @@ rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor
 #EXTINF:-1,RBC Canal 11 - PERU
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 
-#EXTINF:-1,Canal Tr3ce
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1,Caracol HD
 
-#EXTINF:-1,TELEANTIOQUIA HD - Colombia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+rtmp://185.63.255.26/live/LCrivqEAys9C live=true swfVfy=true pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
 
 
 #EXTINF:-1,Win Sports
+http://iptv.latino-webtv.com/win.m3u8
+
+
+#EXTINF:-1,Telecaribe - Colombia
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+
+#EXTINF:-1,Senal Colombia
+
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+
+
+#EXTINF:-1,Canal Tr3ce - Colombia
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+
+
+#EXTINF:-1,Telecafe - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+
+
+
+#EXTINF:-1,TELEANTIOQUIA HD
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+
+#EXTINF:-1,CosmoVision - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+
+#EXTINF:-1,CANAL CAPITAL - Colombia
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+
+
+#EXTINF:-1,CANAL U
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+
+
+
+#EXTINF:-1,Cable Noticias - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+
+
+#EXTINF:-1,El Tiempo
  - Colombia
-http://iptv.latino-webtv.com/win.m3u8?
-
-#EXTINF:-1,Caracol HD
- - Colombia
-rtmp://185.63.255.26/live/LCrivqEAys9C
-
-
-#EXTINF:-1,El Tiempo - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+
+
+
+#EXTINF:-1,TELE VIDA - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+
+
+#EXTINF:-1,TRENDY MUSICA - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
+
+
+#EXTINF:-1,CANTINAZO
+ - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+
+
+#EXTINF:-1,LIFEDESIGN - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+
+
+#EXTINF:-1,MIMUSICA HD - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+
+#EXTINF:-1,TELE AMIGA - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+
+
+#EXTINF:-1,TIGO MUSIC - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+
+#EXTINF:-1,VMas+
+ - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
 
 #EXTINF:-1,TVN Chile 
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
