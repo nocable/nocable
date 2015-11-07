@@ -43,6 +43,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 #EXTINF:-1,TVN Chile HD
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
+#EXTINF:-1 tvg-shift="" tvg-id="La Red" tvg-logo="La Red.png" group-title="Internacional",La Red (Chile)
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+
+#EXTINF:-1 tvg-shift="-4" tvg-id="Mega España" tvg-logo="Mega España.png" group-title="Internacional",Mega (España)
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+
 #EXTINF:-1,El Canal de las Estrellas SD - MEXICO
 http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
 
@@ -57,6 +63,13 @@ http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 
 #EXTINF:-1,Telemundo - USA
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 tvg-shift="" tvg-id="Unicable" tvg-logo="Unicable.png" group-title="Entretenimiento",Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 tvg-shift="-30" tvg-id="Unimás" tvg-logo="Unimas.png" group-title="Entretenimiento",Unimás
+http://slp99.x10.bz/carga.php?canal=UniMasUS&cm=3602&nombre=US.m3u8
+
 
 #EXTINF:-1,Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
@@ -75,6 +88,32 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
 #EXTINF:-1,CADENA 3
 http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="Novelas.png" group-title="Novelas",[COLOR yellow]---------NOVELAS---------[/COLOR]
+http://?
+#EXTINF:-1 tvg-id="az-corazon" tvg-logo="Az Corazon.png" group-title="Novelas",AZ Corazón
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="RCN Novelas" tvg-logo="RCN Novelas.png" group-title="Novelas",RCN Novelas
+
+#EXTINF:-1 tvg-shift="" tvg-id="Tlnovelas" tvg-logo="Tlenovelas.png" group-title="Novelas",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?=%2F.ts
+
+
+#EXTINF:-1 tvg-shift="" tvg-id="" tvg-logo="Noticias.png" group-title="Noticias",[COLOR yellow]---------NOTICIAS---------[/COLOR]
+http://?
+#EXTINF:-1 tvg-shift="" tvg-id="CBS News" tvg-logo="CBS News.png" group-title="Noticias",CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-shift="" tvg-id="Excelsior TV" tvg-logo="Excelsior TV.png" group-title="Local",Excelsior TV
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="El Financiero Bloomberg" tvg-logo="Bloomberg.png" group-title="Noticias",El Financiero Bloomberg
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="Foro TV" tvg-logo="Foro TV.png" group-title="Noticias",Foro TV
+#EXTINF:-1 tvg-shift="" tvg-id="Milenio TV" tvg-logo="Milenio TV.png" group-title="Noticias",Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="TeleFórmula" tvg-logo="Teleformula.png" group-title="Noticias",TeleFórmula
+http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
+
 
 
 <<<<<<< HEAD
@@ -166,6 +205,27 @@ rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 
 #EXTINF:-0 tvg-name="La 1" tvg-logo="beins.png" ,Bein n Espana
 rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
  
+#EXTINF:-1 tvg-shift="-5" tvg-id="BoxNation" tvg-logo="BOXnation.png" group-title="Deportes",BoxNation
+http://89.248.172.57:1935/edge/_definst_/ok8rauezc0vsvaz/playlist.m3u8?wowzasessionid=1850364954&xs=_we_b2s4cmF1ZXpjMHZzdmF6fDE0NDY1NTAzODl8MjAxLjE3My44My4xMzR8NTYzN2YyYjVjNTY5NXwwMjc1OGY4OGNkNmFjYzM3MmUyYjFmMWQ2Yjg1ZjhmN2Y3MWZlYmE0
+
+#EXTINF:-1 tvg-shift="" tvg-id="NFL Network" tvg-logo="NFL Network.png" group-title="Deportes",NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+
+#EXTINF:-1 tvg-shift="" tvg-id="NFL Now" tvg-logo="NFL Now.png" group-title="Deportes",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:-1 tvg-shift="-30" tvg-id="NHL Network" tvg-logo="NHL Network.png" group-title="Deportes",NHL Network
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+
+#EXTINF:-1 tvg-shift="" tvg-id="PXTV" tvg-logo="PXTV.png" group-title="Deportes",PXTV
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:-1 tvg-shift="" tvg-id="UFC Network" tvg-logo="UFC Network.png" group-title="Deportes",UFC Network
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=c75f0dbbde4c58d1e11fb0268ea60e05
+
+#EXTINF:-1 tvg-shift="" tvg-id="Univisión TDN" tvg-logo="Univision TDN.png" group-title="Deportes",Univisión TDN
+http://iptvteam.mine.nu:9981/stream/channelid/1806571283?ticket=DFD4E142EC242B9D00A8EAFDEBDA50F8642C5411&profile=htsp
 
 
 
@@ -191,6 +251,10 @@ http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1, VH1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-shift="" tvg-id="VH1 Classic" tvg-logo="VH1 Classic.png" group-title="Musica",VH1 Classic
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?=%2F.ts
+
 #EXTINF:-1, MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
@@ -209,6 +273,12 @@ http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:-1,Kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
+#EXTINF:-1 tvg-shift="" tvg-id="Ritmoson Latino" tvg-logo="Ritmoson Latino.png" group-title="Música",Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="Telehit HD" tvg-logo="Telehit HD.png" group-title="Música",Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?=%2F.ts
+
+
 #EXTINF:-1,Q Musica 
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1,Bandamax
@@ -225,10 +295,6 @@ http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1,Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Azteca Noticias
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
-#EXTINF:-1,TeleFormula
-http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?=%2F.ts
 #EXTINF:-1,Foro TV HD
 http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1,Gala TV
@@ -237,6 +303,15 @@ http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1,WOBI TV
 http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-shift="" tvg-id="Studio Universal" tvg-logo="Studio Universal.png" group-title="Películas",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="Sundance Channel" tvg-logo="Sundance Channel.png" group-title="Películas",Sundance Channel
+#EXTINF:-1 tvg-shift="" tvg-id="The Film Zone HD" tvg-logo="The Film Zone HD.png" group-title="Películas",The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="Universal Channel" tvg-logo="Universal.png" group-title="Películas",Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1 tvg-shift="" tvg-id="Universal HD" tvg-logo="Universal HD.png" group-title="Películas",Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?=%2F.ts
 #EXTINF:-1,Cinecanal +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Cinecanal
