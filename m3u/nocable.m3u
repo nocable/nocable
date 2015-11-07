@@ -144,6 +144,31 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="viajarlogo.png",Viajar
+rtmp://31.220.0.139/pull/viajando?keys=SgJ1fhTw4OCiIakrc2P4ZQ&keyt=1443276660 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="cazpes.png",CAZA Y PESCA
+rtmp://31.220.40.62/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="canalplus_liga_hd.png" ,C+ LIGA
+rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="C+_Liga_2.png" ,C+ LIGA 2
+rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="canalplus_deportes_hd-300x127.png",C+ DEPORTE
+rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="cpd2.png" ,C+ DEPORTES 2
+rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="beins.png" ,Bein n Espana
+rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+
+
+
 #EXTINF:0,SPORTV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
