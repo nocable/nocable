@@ -34,7 +34,7 @@ http://iptv.latino-webtv.com/win.m3u8
 
 EXTINF:-1,Caracol HD
  - Colombia
-rtmp://185.63.255.26/live/LCrivqEAys9C live=true swfVfy=true pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
+http://www.canalesdelpueblotv.info/caracol1.htm
 
 
 #EXTINF:-1,El Tiempo - Colombia
