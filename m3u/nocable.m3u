@@ -27,9 +27,21 @@ http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 #EXTINF:-1,TELEANTIOQUIA HD - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 
+
+#EXTINF:-1,Win Sports
+ - Colombia
+http://iptv.latino-webtv.com/win.m3u8
+
+EXTINF:-1,Caracol HD
+ - Colombia
+rtmp://185.63.255.26/live/LCrivqEAys9C live=true swfVfy=true pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
+
+
+#EXTINF:-1,El Tiempo - Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+
 #EXTINF:-1,TVN Chile HD
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-
 
 #EXTINF:-1,El Canal de las Estrellas SD - MEXICO
 http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
