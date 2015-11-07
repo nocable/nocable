@@ -94,7 +94,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
 
-#EXTINF:-1,LIFEDESIGN - Colombia
+#EXTINF:-1, LIFEDESIGN - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 
 
@@ -171,7 +171,7 @@ http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?=%2F.ts
 
 
 
-#EXTINF:-1,[COLOR yellow]——Noticias——[/COLOR]
+#EXTINF:-1,[COLOR yellow]---------NOTICIAS---------[/COLOR]
 http://?
 #EXTINF:-1 tvg-shift="" tvg-id="CBS News" tvg-logo="CBS News.png" group-title="Noticias",CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -190,8 +190,7 @@ http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
 
 
 
-<<<<<<< HEAD
-#EXTINF:-1,[COLOR yellow]——KIDS——[/COLOR]
+#EXTINF:-1,[COLOR yellow]---------KIDS---------[/COLOR]
 
 #EXTINF:-1,Discovery Kids
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -235,7 +234,7 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,Dragon Ball 24 Hrs
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
 
-#EXTINF:-1,Anime en EspaÃ±ol
+#EXTINF:-1,Anime en EspaNol
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 #EXTINF:-1,Cartoon Network en Ingles
@@ -245,9 +244,7 @@ http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3
 http://j.gs/11042797/cartoon-network-stbox-m3u8
 
 
-
-#EXTINF:-1,[COLOR yellow]”Deportes”[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1,[COLOR yellow]---------DEPORTES---------[/COLOR]
 
 
 #EXTINF:-1,Bein Sports Espanol 
@@ -320,8 +317,7 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
 
 
-<<<<<<< HEAD
-#EXTINF:-1,[COLOR yellow]——Musica——[/COLOR]
+#EXTINF:-1,[COLOR yellow]---------MUSICA---------[/COLOR]
 
 
 #EXTINF:-1, MTV Live HD
@@ -368,7 +364,7 @@ http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow]"Canales Cable”[/COLOR]
+#EXTINF:-1,[COLOR yellow]---------CANALES CABLE---------[/COLOR]
 
 #EXTINF:-1,Canal 2 HD - Mexico
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
