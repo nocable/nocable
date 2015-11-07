@@ -30,11 +30,11 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 
 #EXTINF:-1,Win Sports
  - Colombia
-http://iptv.latino-webtv.com/win.m3u8
+http://iptv.latino-webtv.com/win.m3u8?
 
 #EXTINF:-1,Caracol HD
  - Colombia
-http://www.canalesdelpueblotv.info/caracol1.htm
+rtmp://185.63.255.26/live/LCrivqEAys9C
 
 
 #EXTINF:-1,El Tiempo - Colombia
