@@ -24,17 +24,12 @@ rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 #EXTINF:-1,Canal Tr3ce
 http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 
-#EXTINF:-1,TELEANTIOQUIA HD
+#EXTINF:-1,TELEANTIOQUIA HD - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 
 #EXTINF:-1,TVN Chile HD
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
-#EXTINF:-1,MegaTV HD  - CHILE
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-
-#EXTINF:-1,CANAL DHE
-http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1,El Canal de las Estrellas SD - MEXICO
 http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
@@ -42,7 +37,7 @@ http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Azteca 7
 http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1,El Trece México
+#EXTINF:-1,El Trece Mexico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 ,Ocho TV - MEXICO
@@ -57,7 +52,7 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,Azteca Honduras
  http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
-#EXTINF:-1,Azteca 7 Monterrey México
+#EXTINF:-1,Azteca 7 Monterrey Mexico
  http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
 #EXTINF:-1,Canal 7
@@ -99,10 +94,6 @@ http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Tooncast
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-=======
-#EXTINF:-1,[COLOR yellow]——Cartoons——[/COLOR]
-http://0.0.0.0:1234
->>>>>>> origin/master
 
 #EXTINF:-1,Dragon Ball 24 Hrs
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
@@ -117,19 +108,6 @@ http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3
 http://j.gs/11042797/cartoon-network-stbox-m3u8
 
 
-#EXTINF:-1,[COLOR yellow]——Canales de Cable——[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,T.B.BOX,De Pelicula HD
-http://j.gs/11042797/de-pelicula-hd-s-t-box-m3u8
-
-#EXTINF:0,T.B.BOX,Peliculas HD
-http://j.gs/11042797/peliculas-hd-s-t-box-m3u8
-
-#EXTINF:-1,Ultra Cine HD 
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-
 
 #EXTINF:-1,[COLOR yellow]——Deportes——[/COLOR]
 http://0.0.0.0:1234
@@ -138,7 +116,6 @@ http://0.0.0.0:1234
 #EXTINF:-1,Bein Sports Español 
 http://beinsportgeo.hls.adaptive.level3.net/apple/overon/beinsportgeo/bein_spa/wifi.m3u8
 
-<<<<<<< HEAD
 #EXTINF:-1,ESPN +
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,ESPN
@@ -154,122 +131,23 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
-=======
->>>>>>> origin/master
-
-#EXTINF:-1,TYC SPORTS
-http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1,CDN-SportsMax
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,SPORTV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:0, MOTOR SPORT (Australia)
- http://motorsport.hopto.org:8080/
-
-#EXTINF:0,EUROSPORT (England)
- http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:-1,Eurosport
- http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
-
-#EXTINF:-1,BTN
- http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1,NTV SPORT
- http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-
-#EXTINF:-1,Sports TV3
- http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-
-#EXTINF:-1,Sport 10
- http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
-
-#EXTINF:-1,Sporttime
- rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-
-#EXTINF:-1,Sporttime
- rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-
-#EXTINF:-1,Sporttime
- rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-
-#EXTINF:-1,Motorsport TV
- http://motorsport.hopto.org:8080
-
-#EXTINF:-1,Trace Sports eng
- http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?
-
-#EXTINF:-1, BT Sports 2
- rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
-
 #EXTINF:-1, CDN Sports esp
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1,EUROSPORT 1 HD
- http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-
-#EXTINF:-1,Saudi Arabia Sport
- http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
-
-#EXTINF:-1, Auto Moto TV Gaz
- mms://100automoto.tv/100gaz
-
-#EXTINF:-1, PORSCHE CHANNEL 
- mms://100automoto.tv/channel_porsche
-
-#EXTINF:-1, AutoSport TV 
- mms://100automoto.tv/100livesport
-
-#EXTINF:-1, BMW CHANNEL Italia
- mms://100automoto.tv/bmw
-
-#EXTINF:-1, Manchester United TV
- rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chmymutv/2009/08/13/a5fba842-8f2f-4a15-b095-9dfd8ff29b45 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&allowchat=false&showMoreVideos=false&lschannel=true&borderColor=0xCCCCCC&time=&allowChat=true&browseMode=false&showBorderControlBar=false&textLines=2&autoPlay=true&hideChannelBranding=true&iconColor=0x555555&hideInfo=true&t=428531&mode=false pageUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=428531
-
-#EXTINF:-1,Motorsport (England)
- http://motorsport.hopto.org:8080/
-
-#EXTINF:-1, MMA SD
- rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-#EXTINF:-1,Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8?Vd?u#bt!25
 
 #EXTINF:-1,Pac National 1080 HD
 http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
 
-
 #EXTINF:-1,[COLOR yellow]——Noticias——[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1, ABC NEWS
- http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
-#EXTINF:-1,I24 News
- http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-
-#EXTINF:-1 ,Dubai One
- http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-
-#EXTINF:-1, Home Shopping Network
- rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
-
-#EXTINF:-1, HSN 2
- rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpath=mp4:468p500kB31
 
 
 <<<<<<< HEAD
 #EXTINF:-1,[COLOR yellow]��Musica��[/COLOR]
 
-#EXTINF:-1,Bandamax
-http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+
 #EXTINF:-1, MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1, Telehit HD
@@ -278,10 +156,6 @@ http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1, MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-=======
-#EXTINF:-1,[COLOR yellow]——Musica——[/COLOR]
-http://0.0.0.0:1234
->>>>>>> origin/master
 
 #EXTINF:-1,VEVO 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
@@ -300,9 +174,11 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
 #EXTINF:-1,Q Musica 
 mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]——NUEVOS——[/COLOR]
+#EXTINF:-1,[COLOR yellow]"Canales Cable�[/COLOR]
 
 #EXTINF:-1,Canal 2 HD
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
@@ -314,8 +190,16 @@ http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,Azteca Noticias
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
-
-
+#EXTINF:-1,TeleFormula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?=%2F.ts
+#EXTINF:-1,Foro TV HD
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Multimedios Plus
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Cinecanal +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Cinecanal
@@ -330,13 +214,13 @@ http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,The Film Zone HD
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,De Película HD
+#EXTINF:-1,De Pelicula HD
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Space
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Cinemax (O)
+#EXTINF:-1,Cinemax
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Golden Edge
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -346,52 +230,15 @@ http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Universal HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Fox Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Fox Movies HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Fox Cinéma
+#EXTINF:-1,Fox Cinema
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-
-
-
-#EXTINF:-1,WOBI TV
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV",Once TV
-http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,Canal 2 HD
-http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Canal 5 HD
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Azteca 7
-http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,Ocho TV
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Azteca Noticias
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE02.m3u8?=%2F.ts
-#EXTINF:-1,TeleFórmula
-http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?=%2F.ts
-#EXTINF:-1,Foro TV HD
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Gala TV
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Multimedios Plus
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Gala TV
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Multimedios Plus
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,WOBI TV
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,A&E
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 tvg-id="Fox",FOX
+#EXTINF:-1,FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Fox Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -405,7 +252,7 @@ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1,TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,Más chic
+#EXTINF:-1,Mas chic
 http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -423,10 +270,8 @@ http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,Unicable
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Az Corazón
+#EXTINF:-1,Az Corazon
 http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Az Mundo
-
 #EXTINF:-1,BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,E! Entertainment Television
@@ -441,15 +286,9 @@ http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429&f=mariocs.m3u8
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,Fox 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Fox Action HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Fox Movies HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Fox Cinéma
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1,Investigación Discovery
+#EXTINF:-1,Investigacion Discovery
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,NatGeo Wild
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
