@@ -24,35 +24,31 @@ rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor
 #EXTINF:-1,RBC Canal 11 - PERU
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 
-#EXTINF:-1,Caracol HD
-
+#EXTINF:-1,Caracol1 - Colombia
 rtmp://185.63.255.26/live/LCrivqEAys9C live=true swfVfy=true pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
 
+#EXTINF:-1,Caracol2 - Colombia
+rtmp://185.63.255.26/live/ playpath=LCrivqEAys9C swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://futbolenvivoaldia.co/reproductor/canal6a.php
+
+#EXTINF:-1,RCN - Colombia
+http://185.63.255.26/live/L0lGdZwMTZJW/playlist.m3u8 
 
 #EXTINF:-1,Win Sports
 http://iptv.latino-webtv.com/win.m3u8
 
-
 #EXTINF:-1,Telecaribe - Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 
-
 #EXTINF:-1,Senal Colombia
-
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
-
 
 #EXTINF:-1,Canal Tr3ce - Colombia
 http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 
-
 #EXTINF:-1,Telecafe - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 
-
-
 #EXTINF:-1,TELEANTIOQUIA HD
-
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 
 
@@ -64,56 +60,71 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 
 
-#EXTINF:-1,CANAL U
-
+#EXTINF:-1,CANAL U - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-
-
 
 #EXTINF:-1,Cable Noticias - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 
-
-#EXTINF:-1,El Tiempo
- - Colombia
+#EXTINF:-1,El Tiempo - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-
-
 
 #EXTINF:-1,TELE VIDA - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
 
-
 #EXTINF:-1,TRENDY MUSICA - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
-
-
-#EXTINF:-1,CANTINAZO
- - Colombia
+#EXTINF:-1,CANTINAZO - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-
 
 #EXTINF:-1, LIFEDESIGN - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 
-
 #EXTINF:-1,MIMUSICA HD - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-
 
 #EXTINF:-1,TELE AMIGA - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
 
-
 #EXTINF:-1,TIGO MUSIC - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 
-
-#EXTINF:-1,VMas+
- - Colombia
+#EXTINF:-1,VMas+ - Colombia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
+#EXTINF:0,[COLOR yellow][B]== CHILE ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="C13 Cable" group-title="CHILE",C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="C13 HD" group-title="CHILE",C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8 
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="CDO Premium" group-title="CHILE",CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="CHV HD" group-title="CHILE",CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Holvoet HD" group-title="CHILE",Holvoet HD
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="ITV HD" group-title="CHILE",ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Mega HD" group-title="CHILE",Mega HD
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="PinguinoTV HD" group-title="CHILE",PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="RedTV HD" group-title="CHILE",RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telecanal" group-title="CHILE",Telecanal
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TV Chile" group-title="CHILE",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TV Chile" group-title="CHILE",TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN - Chile" group-title="CHILE",TVN - Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN HD" group-title="CHILE",TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="UCV HD" group-title="CHILE",UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
 #EXTINF:-1,TVN Chile 
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
@@ -121,11 +132,105 @@ http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 #EXTINF:-1,La Red (Chile)
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 
+#EXTINF:0,[COLOR yellow][B]== CUBA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Cubavisión" group-title="CUBA",Cubavisión
+rtmp://195.154.174.31/beta playpath=cubavisiion swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.fidelista-por-siempre.org/CubaVision-en-Vivo.aspx
+
+#EXTINF:0,[COLOR yellow][B]== ECUADOR ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="RTS Ecuador" group-title="ECUADOR",RTS Ecuador
+http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Television Nacional" group-title="ECUADOR",Television Nacional
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN" group-title="ECUADOR",TVN
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0,[COLOR yellow][B]== URUGUAY ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Canal U" tvg-name="Canal U" tvg-logo="Canal U" group-title="URUGUAY",Canal U[COLOR green][B] - Corregido[/COLOR][/B]
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="Canal Once" group-title="URUGUAY",Canal Once[COLOR green][B] - Corregido[/COLOR][/B]
+http://q.gs/9830047/onceuuruguaytodokodim3u8
+
+#EXTINF:0,[COLOR yellow][B]== REP. DOMINICANA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Antena Latina" group-title="REP. DOMINICANA",Antena Latina
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="CDN 37" group-title="REP. DOMINICANA",CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Digital 15" group-title="REP. DOMINICANA",Digital 15
+rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=d15.stream swfUrl=http://canalesdominicanosenvivo.com/asset/play/jwplayer.flash.swf live=1 pageUrl=http://canalesdominicanosenvivo.com/asset/play/rep2.php?canal=223
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Lunavision Canal 10" group-title="REP. DOMINICANA",Lunavision Canal 10
+http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Musavisión" group-title="REP. DOMINICANA",Musavisión
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="PeraviaVision 8" group-title="REP. DOMINICANA",PeraviaVision 8
+http://ss7.domint.net:1966/pr_str/peravia/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Tele Antillas" group-title="REP. DOMINICANA",Tele Antillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telefuturo 23" group-title="REP. DOMINICANA",Telefuturo 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TeleUniverso 29" group-title="REP. DOMINICANA",TeleUniverso 29
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Certv" group-title="REP. DOMINICANA",Certv[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Romana TV" group-title="REP. DOMINICANA",Romana TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telenord" group-title="REP. DOMINICANA",Telenord[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+
+#EXTINF:0,[COLOR yellow][B]== PUERTO RICO ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",WAPA TV
+rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",CDM[COLOR lime][B] - Nuevo[/COLOR][/B]
+rtmp://unoredcdn.net:1935/cadenadelmilagro playpath=myStream.sdp swfUrl=http://unoredcdn.com/mediaplayer/player.swf live=1 pageUrl=http://cdminternacional.com/cdmtv/cdm-hd-700-k/
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",Wapa 2[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://31.220.40.119:80/LiveEdge/WPA2PR/playlist.m3u8?token=1e05d5fdd8854709aef4cf58108a6987
+
+#EXTINF:0,[COLOR yellow][B]== HONDURAS ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Canal 11" group-title="HONDURAS",Canal 11[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://162.212.176.83:8080/campustv.stream.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Globo TV" group-title="HONDURAS",Globo TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Sulavision" group-title="HONDURAS",Sulavision[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telecadena" group-title="HONDURAS",Telecadena[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://162.212.176.83:8080/telecadena.stream.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telesistema" group-title="HONDURAS",Telesistema[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Teleprogreso" group-title="HONDURAS",Teleprogreso[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Azteca Honduras" group-title="HONDURAS",Azteca Honduras[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
+
+#EXTINF:0,[COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="Antena 3" group-title="ESPAÑA",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta" tvg-logo="La Sexta" group-title="ESPAÑA",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Huesca TV" group-title="ESPAÑA",Huesca TV
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Kiss TV" group-title="ESPAÑA",Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Mega" group-title="ESPAÑA",Mega
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telecinco" group-title="ESPAÑA",Telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telemadrid" group-title="ESPAÑA",Telemadrid
+rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111787371001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111787371001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1446966915865 live=1 pageUrl=http://www.television-envivo.com/telemadrid-en-vivo.html
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVE" group-title="ESPAÑA",TVE
+http://wcm777.la/mariocs.php?canal=TVELASD&cm=981&f=mariocs.m3u8
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Andalucia TV" group-title="ESPAÑA",Andalucia TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u
+#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="MEGA" group-title="ESPAÑA",MEGA[COLOR lime][B] - Nuevo[/COLOR][/B]
+http://q.gs/9830047/todokodineox
+
 #EXTINF:-1,Mega (España)
 http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
-
-#EXTINF:-1,Azteca 7
-http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1,El Trece Mexico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
@@ -191,7 +296,7 @@ http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]---------KIDS---------[/COLOR]
-
+http://?
 #EXTINF:-1,Discovery Kids
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
@@ -245,10 +350,13 @@ http://j.gs/11042797/cartoon-network-stbox-m3u8
 
 
 #EXTINF:-1,[COLOR yellow]---------DEPORTES---------[/COLOR]
-
+http://?
 
 #EXTINF:-1,Bein Sports Espanol 
-http://beinsportgeo.hls.adaptive.level3.net/apple/overon/beinsportgeo/bein_spa/wifi.m3u8
+http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/02.m3u8
+
+#EXTINF:-1,TyC Sports
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
 
 #EXTINF:-1,ESPN +
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -268,10 +376,19 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
+#EXTINF:-1,BT Sport 1
+rtmp://80.82.78.21/live playpath=bcbt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=bcbt1&vw=620&vh=490
+
+#EXTINF:-1,BT Sport 2
+rtmp://89.248.162.148/live playpath=bcbt2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=bcbt2&vw=620&vh=490
+
+#EXTINF:-1,UFC Network Latinoamérica
+http://ufc.carlosjerson.tk/playlist.m3u8?token=d099eaa38bd581c34f33e5c67a
+
 #EXTINF:-0,Viajar
 rtmp://31.220.0.139/pull/viajando?keys=SgJ1fhTw4OCiIakrc2P4ZQ&keyt=1443276660 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
  
-#EXTINF:-0,CAZA Y PESCA
+#EXTINF:-0,Caza y Pesca
 rtmp://31.220.40.62/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
  
 #EXTINF:-0,C+ LIGA
@@ -286,7 +403,7 @@ rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 
 #EXTINF:-0,C+ DEPORTES 2
 rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
  
-#EXTINF:-0,Bein n Espana
+#EXTINF:-0,Bein Espana
 rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
  
 #EXTINF:-1,BoxNation
@@ -318,7 +435,7 @@ http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
 
 
 #EXTINF:-1,[COLOR yellow]---------MUSICA---------[/COLOR]
-
+http://?
 
 #EXTINF:-1, MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -365,6 +482,7 @@ http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]---------CANALES CABLE---------[/COLOR]
+http://?
 
 #EXTINF:-1,Canal 2 HD - Mexico
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
