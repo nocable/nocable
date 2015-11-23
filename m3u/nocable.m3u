@@ -95,6 +95,17 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 
 
+#EXTINF:0,[COLOR yellow][B]== ARGENTINA ==[/B][/COLOR]
+
+#EXTINF:-1,CANAL 9 ARGENTINA
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+
+#EXTINF:-1,El Trece
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+
+
+
+
 #EXTINF:0,[COLOR yellow][B]== CHILE ==[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN HD" group-title="CHILE",TVN HD
@@ -130,8 +141,8 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0,[COLOR yellow][B]== REP. DOMINICANA ==[/B][/COLOR]
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Antena Latina" group-title="REP. DOMINICANA",Antena Latina
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,ANTENA LATINA
+http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
 
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="CDN 37" group-title="REP. DOMINICANA",CDN 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
@@ -187,22 +198,25 @@ http://162.212.176.83:8080/teleprogreso.m3u8
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 
 
+
 #EXTINF:0,[COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
 
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="Antena 3" group-title="ESPAÑA",Antena 3
+#EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta" tvg-logo="La Sexta" group-title="ESPAÑA",La Sexta
+#EXTINF:-1,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Kiss TV" group-title="ESPAÑA",Kiss TV
+#EXTINF:-1,Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telemadrid" group-title="ESPAÑA",Telemadrid
+#EXTINF:-1,Telemadrid
 rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111787371001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111787371001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1446966915865 live=1 pageUrl=http://www.television-envivo.com/telemadrid-en-vivo.html
 
 #EXTINF:-1,Mega
 http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+
+
 
 #EXTINF:0,[COLOR yellow][B]== MEXICO ==[/B][/COLOR]
 
@@ -251,16 +265,22 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,CADENA 3
 http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 
+
+
 #EXTINF:0,[COLOR yellow][B]== USA ==[/B][/COLOR]
 
-#EXTINF:-1,Telemundo - USA
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Telemundo
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=7
 
 #EXTINF:-1,Unicable
-http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?=%2F.ts
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1,Univision
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=6
 
 #EXTINF:-1,Unimás
 http://slp99.x10.bz/carga.php?canal=UniMasUS&cm=3602&nombre=US.m3u8
+
 
 
 #EXTINF:-1,[COLOR yellow]---------NOVELAS---------[/COLOR]
@@ -275,20 +295,45 @@ http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?=%2F.ts
 
 #EXTINF:-1,[COLOR yellow]---------NOTICIAS---------[/COLOR]
 http://?
-#EXTINF:-1 tvg-shift="" tvg-id="CBS News" tvg-logo="CBS News.png" group-title="Noticias",CBS News
+
+#EXTINF:-1,Euronews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+
+#EXTINF:-1,Euronews Español
+http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
+
+#EXTINF:-1,Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1,i24 News English
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1,i24 News France
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
+#EXTINF:-1,RT Latinoamerica
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+
+#EXTINF:-1,TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1,NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1,CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 
-#EXTINF:-1 tvg-shift="" tvg-id="Excelsior TV" tvg-logo="Excelsior TV.png" group-title="Local",Excelsior TV
+#EXTINF:-1,Excelsior TV
 http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?=%2F.ts
 
-#EXTINF:-1 tvg-shift="" tvg-id="El Financiero Bloomberg" tvg-logo="Bloomberg.png" group-title="Noticias",El Financiero Bloomberg
+#EXTINF:-1,El Financiero Bloomberg
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?=%2F.ts
 
-#EXTINF:-1 tvg-shift="" tvg-id="Milenio TV" tvg-logo="Milenio TV.png" group-title="Noticias",Milenio TV
+#EXTINF:-1,Milenio TV
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1 tvg-shift="" tvg-id="TeleFórmula" tvg-logo="Teleformula.png" group-title="Noticias",TeleFórmula
-http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
 
 
 
@@ -348,6 +393,8 @@ http://j.gs/11042797/cartoon-network-stbox-m3u8
 #EXTINF:-1,[COLOR yellow]---------DEPORTES---------[/COLOR]
 http://?
 
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
 #EXTINF:-1,ESPN +
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -442,6 +489,33 @@ http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]---------CANALES CABLE---------[/COLOR]
 http://?
 
+
+#EXTINF:-1,HBO
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=55
+
+#EXTINF:-1HBO 2
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=59
+
+#EXTINF:-1,MAX
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=56
+
+#EXTINF:-1,Golden Premier 1
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=57
+
+#EXTINF:-1,Golden Premier 2
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=58
+
+#EXTINF:-1,Victoria Secrets Channel
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1,E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1,Fashion TV
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 #EXTINF:-1,Studio Universal
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?=%2F.ts
@@ -553,9 +627,6 @@ http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535
 
 #EXTINF:-1,BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,E! Entertainment Television
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 #EXTINF:-1",SyFy
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
