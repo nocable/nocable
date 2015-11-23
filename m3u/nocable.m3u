@@ -1,37 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR yellow]---------PERU---------[/COLOR]
+http://?
 
-#EXTINF:-1,[COLOR yellow]---------PAISES---------[/COLOR]
-
-
-
-#EXTINF:0,[COLOR yellow][B]== PERU ==[/B][/COLOR]
-
-#EXTINF:-1,RPP Noticias Television - PERU
+#EXTINF:-1,RPP Noticias Television
 rtmp://rpplivefs.fplive.net:1935/rpp02live-live playpath=streamRPPTV swfUrl= live=1 pageUrl=
 
-#EXTINF:-1 tvg-id="Panamericana TV" tvg-logo="PANAMERICANATV.png" group-title="PERU",PERU: Panamericana tv
+#EXTINF:-1,Panamericana TV
 rtmp://cdn5a.iblups.com/ptv playpath=ptv1 swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://p.iblups.com/ptv/embedPTV.php?w=560&h=315
 
-#EXTINF:-1,America TV HD - PERU
+#EXTINF:-1,America TV HD
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 
-#EXTINF:-1,ATV HD - PERU
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8?
-
-#EXTINF:-1,ATV+ - PERU
+#EXTINF:-1,ATV+
 rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D10692 pageUrl=http://iblups.com/e_atvmas-520-343 live=true
 
-#EXTINF:-1,Willax - PERU
+#EXTINF:-1,Willax
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh pageUrl=http://www.willax.tv/ live=true
 
-#EXTINF:-1,RBC Canal 11 - PERU
+#EXTINF:-1,RBC Canal 11
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 
-
-
-
-#EXTINF:0,[COLOR yellow][B]== COLOMBIA ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------COLOMBIA---------[/COLOR]
+http://?
 
 #EXTINF:-1,Caracol
 rtmp://185.63.255.26/live/ playpath=LCrivqEAys9C swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://futbolenvivoaldia.co/reproductor/canal6a.php
@@ -93,9 +84,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1,VMas+
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
-
-
-#EXTINF:0,[COLOR yellow][B]== ARGENTINA ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------ARGENTINA---------[/COLOR]
+http://?
 
 #EXTINF:-1,CANAL 9 ARGENTINA
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
@@ -103,10 +93,8 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
 #EXTINF:-1,El Trece
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 
-
-
-
-#EXTINF:0,[COLOR yellow][B]== CHILE ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------CHILE---------[/COLOR]
+http://?
 
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN HD" group-title="CHILE",TVN HD
 http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
@@ -121,25 +109,22 @@ http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 
 
-
-#EXTINF:0,[COLOR yellow][B]== CUBA ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------CUBA---------[/COLOR]
+http://?
 
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Cubavisión" group-title="CUBA",Cubavisión
 rtmp://195.154.174.31/beta playpath=cubavisiion swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.fidelista-por-siempre.org/CubaVision-en-Vivo.aspx
 
-
-
-#EXTINF:0,[COLOR yellow][B]== ECUADOR ==[/B][/COLOR]
-
+#EXTINF:-1,[COLOR yellow]---------ECUADOR---------[/COLOR]
+http://?
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="RTS Ecuador" group-title="ECUADOR",RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
 
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN" group-title="ECUADOR",TVN
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
-
-
-#EXTINF:0,[COLOR yellow][B]== REP. DOMINICANA ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------REP DOMINICANA---------[/COLOR]
+http://?
 
 #EXTINF:-1,ANTENA LATINA
 http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
@@ -159,9 +144,8 @@ http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telenord" group-title="REP. DOMINICANA",Telenord[COLOR lime][B] - Nuevo[/COLOR][/B]
 http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
 
-
-
-#EXTINF:0,[COLOR yellow][B]== PUERTO RICO ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------PUERTO RICO---------[/COLOR]
+http://?
 
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",WAPA TV
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310
@@ -169,9 +153,8 @@ rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playert
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",CDM[COLOR lime][B] - Nuevo[/COLOR][/B]
 rtmp://unoredcdn.net:1935/cadenadelmilagro playpath=myStream.sdp swfUrl=http://unoredcdn.com/mediaplayer/player.swf live=1 pageUrl=http://cdminternacional.com/cdmtv/cdm-hd-700-k/
 
-
-
-#EXTINF:0,[COLOR yellow][B]== HONDURAS ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------HONDURAS---------[/COLOR]
+http://?
 
 #EXTINF:-1,Azteca Honduras
  http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
@@ -198,8 +181,8 @@ http://162.212.176.83:8080/teleprogreso.m3u8
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 
 
-
-#EXTINF:0,[COLOR yellow][B]== ESPAÑA ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]--------ESPANA---------[/COLOR]
+http://?
 
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
@@ -216,9 +199,8 @@ rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=370667662000
 #EXTINF:-1,Mega
 http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
 
-
-
-#EXTINF:0,[COLOR yellow][B]== MEXICO ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]--------MEXICO---------[/COLOR]
+http://?
 
 #EXTINF:-1,Canal 2 HD - Mexico
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
@@ -265,9 +247,8 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,CADENA 3
 http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 
-
-
-#EXTINF:0,[COLOR yellow][B]== USA ==[/B][/COLOR]
+#EXTINF:-1,[COLOR yellow]---------USA---------[/COLOR]
+http://?
 
 #EXTINF:-1,Telemundo
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=7
@@ -281,7 +262,53 @@ http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6
 #EXTINF:-1,Unimás
 http://slp99.x10.bz/carga.php?canal=UniMasUS&cm=3602&nombre=US.m3u8
 
+#EXTINF:-1,[COLOR yellow]---------DEPORTES---------[/COLOR]
+http://?
 
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:-1,ESPN +
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,ESPN 3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,Fox Sports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1,UFC Network Latinoamérica
+http://ufc.carlosjerson.tk/playlist.m3u8?token=d099eaa38bd581c34f33e5c67a
+
+#EXTINF:-1,BoxNation
+http://89.248.172.57:1935/edge/_definst_/ok8rauezc0vsvaz/playlist.m3u8?wowzasessionid=1850364954&xs=_we_b2s4cmF1ZXpjMHZzdmF6fDE0NDY1NTAzODl8MjAxLjE3My44My4xMzR8NTYzN2YyYjVjNTY5NXwwMjc1OGY4OGNkNmFjYzM3MmUyYjFmMWQ2Yjg1ZjhmN2Y3MWZlYmE0
+
+#EXTINF:-1,NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+
+#EXTINF:-1,NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:-1,NHL Network
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1,PXTV
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=%2F.ts
+
+#EXTINF:0,SPORTV AMERICAS - Portugal
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1, CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow]---------NOVELAS---------[/COLOR]
 http://?
@@ -290,7 +317,6 @@ http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?=%2F.ts
 
 #EXTINF:-1,Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?=%2F.ts
-
 
 
 #EXTINF:-1,[COLOR yellow]---------NOTICIAS---------[/COLOR]
@@ -388,57 +414,6 @@ http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3
 http://j.gs/11042797/cartoon-network-stbox-m3u8
 
 
-
-
-#EXTINF:-1,[COLOR yellow]---------DEPORTES---------[/COLOR]
-http://?
-
-#EXTINF:-1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-
-#EXTINF:-1,ESPN +
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN 3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Sports
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Sports 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,UFC Network Latinoamérica
-http://ufc.carlosjerson.tk/playlist.m3u8?token=d099eaa38bd581c34f33e5c67a
-
-#EXTINF:-1,BoxNation
-http://89.248.172.57:1935/edge/_definst_/ok8rauezc0vsvaz/playlist.m3u8?wowzasessionid=1850364954&xs=_we_b2s4cmF1ZXpjMHZzdmF6fDE0NDY1NTAzODl8MjAxLjE3My44My4xMzR8NTYzN2YyYjVjNTY5NXwwMjc1OGY4OGNkNmFjYzM3MmUyYjFmMWQ2Yjg1ZjhmN2Y3MWZlYmE0
-
-#EXTINF:-1,NFL Network
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-
-#EXTINF:-1,NFL Now
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-#EXTINF:-1,NHL Network
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1,PXTV
-http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:0,SPORTV AMERICAS - Portugal
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-
-#EXTINF:-1, CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-
 #EXTINF:-1,[COLOR yellow]---------MUSICA---------[/COLOR]
 http://?
 
@@ -493,17 +468,8 @@ http://?
 #EXTINF:-1,HBO
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=55
 
-#EXTINF:-1HBO 2
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=59
-
 #EXTINF:-1,MAX
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=56
-
-#EXTINF:-1,Golden Premier 1
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=57
-
-#EXTINF:-1,Golden Premier 2
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=58
 
 #EXTINF:-1,Victoria Secrets Channel
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
