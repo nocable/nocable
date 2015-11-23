@@ -96,10 +96,10 @@ rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cd
 #EXTINF:-1,[COLOR yellow]---------CHILE---------[/COLOR]
 http://?
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="TVN HD" group-title="CHILE",TVN HD
-http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1,TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="UCV HD" group-title="CHILE",UCV HD
+#EXTINF:-1,UCV HD
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
 #EXTINF:-1,TVN Chile 
@@ -129,28 +129,28 @@ http://?
 #EXTINF:-1,ANTENA LATINA
 http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="CDN 37" group-title="REP. DOMINICANA",CDN 37
+#EXTINF:-1,CDN 37
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Musavisión" group-title="REP. DOMINICANA",Musavisión
+#EXTINF:-1,Musavisión
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Tele Antillas" group-title="REP. DOMINICANA",Tele Antillas
+#EXTINF:-1,Tele Antillas
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Romana TV" group-title="REP. DOMINICANA",Romana TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Romana TV
 http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telenord" group-title="REP. DOMINICANA",Telenord[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Telenord
 http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow]---------PUERTO RICO---------[/COLOR]
 http://?
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",WAPA TV
+#EXTINF:-1,WAPA TV
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="q" group-title="PUERTO RICO",CDM[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,CDM
 rtmp://unoredcdn.net:1935/cadenadelmilagro playpath=myStream.sdp swfUrl=http://unoredcdn.com/mediaplayer/player.swf live=1 pageUrl=http://cdminternacional.com/cdmtv/cdm-hd-700-k/
 
 #EXTINF:-1,[COLOR yellow]---------HONDURAS---------[/COLOR]
@@ -159,25 +159,25 @@ http://?
 #EXTINF:-1,Azteca Honduras
  http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Canal 11" group-title="HONDURAS",Canal 11[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Canal 11
 http://162.212.176.83:8080/campustv.stream.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Globo TV" group-title="HONDURAS",Globo TV[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Globo TV
 http://162.212.176.83:8080/globotv.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Sulavision" group-title="HONDURAS",Sulavision[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Sulavision
 http://162.212.176.83:8080/sulavision.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telecadena" group-title="HONDURAS",Telecadena[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Telecadena
 http://162.212.176.83:8080/telecadena.stream.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Telesistema" group-title="HONDURAS",Telesistema[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Telesistema
 http://162.212.176.83:8080/telesistema.stream.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Teleprogreso" group-title="HONDURAS",Teleprogreso[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Teleprogreso
 http://162.212.176.83:8080/teleprogreso.m3u8
 
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Azteca Honduras" group-title="HONDURAS",Azteca Honduras[COLOR lime][B] - Nuevo[/COLOR][/B]
+#EXTINF:-1,Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 
 
