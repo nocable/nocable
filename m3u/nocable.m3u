@@ -24,35 +24,14 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
-#EXTINF:-1,UK: SKY Sport 5 HD
-http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/64.ts
-
-#EXTINF:-1,UK: SKY Sport 4 HD
-http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/65.ts
-
-#EXTINF:-1,UK: SKY Sport 3 HD
-http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/66.ts
-
-#EXTINF:-1,UK: SKY Sport 2 HD
-http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/67.ts
-
-#EXTINF:-1,UK: SKY Sport 1 HD
-http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/68.ts
-
 #EXTINF:-1,NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-
-#EXTINF:-1,NFL Now
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
 #EXTINF:-1,NHL Network
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1,PXTV
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:0,SPORTV AMERICAS - Portugal
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 #EXTINF:-1, CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
@@ -183,7 +162,7 @@ http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
-#EXTINF:-1",SyFy
+#EXTINF:-1,SyFy
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 #EXTINF:-1,Mundo Fox
@@ -340,9 +319,6 @@ http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,El Trece Mexico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 ,Ocho TV - MEXICO
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-
 #EXTINF:-1,Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
@@ -361,9 +337,6 @@ http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,[COLOR yellow]---------USA---------[/COLOR]
 http://?
 
-#EXTINF:-1,MX: Univision
-http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/828.ts
-
 #EXTINF:-1,LATINOS: NEXXO
 http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
 
@@ -378,9 +351,6 @@ http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
 
 #EXTINF:-1,Unicable
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-
-#EXTINF:-1,Unimás
-http://slp99.x10.bz/carga.php?canal=UniMasUS&cm=3602&nombre=US.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]---------CUBA---------[/COLOR]
