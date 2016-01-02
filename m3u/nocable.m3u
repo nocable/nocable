@@ -9,9 +9,6 @@ rtmp://rpplivefs.fplive.net:1935/rpp02live-live playpath=streamRPPTV swfUrl= liv
 #EXTINF:-1,Panamericana TV
 rtmp://cdn5a.iblups.com/ptv playpath=ptv1 swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://p.iblups.com/ptv/embedPTV.php?w=560&h=315
 
-#EXTINF:-1,America TV HD
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-
 #EXTINF:-1,ATV+
 rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D10692 pageUrl=http://iblups.com/e_atvmas-520-343 live=true
 
@@ -24,11 +21,6 @@ rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 #EXTINF:-1,[COLOR yellow]---------COLOMBIA---------[/COLOR]
 http://?
 
-#EXTINF:-1,Caracol
-rtmp://185.63.255.26/live/ playpath=LCrivqEAys9C swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://futbolenvivoaldia.co/reproductor/canal6a.php
-
-#EXTINF:-1,RCN
-http://185.63.255.26/live/L0lGdZwMTZJW/playlist.m3u8 
 
 #EXTINF:-1,Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
@@ -87,7 +79,10 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1,[COLOR yellow]---------ARGENTINA---------[/COLOR]
 http://?
 
-#EXTINF:-1,CANAL 9 ARGENTINA
+#EXTINF:-1,ARG: TV Publica
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/94.ts
+
+#EXTINF:-1,CANAL 9
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
 
 #EXTINF:-1,El Trece
@@ -184,11 +179,17 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,[COLOR yellow]--------ESPANA---------[/COLOR]
 http://?
 
+#EXTINF:-1,TVE.
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CANAL 4 HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
 
 #EXTINF:-1,Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
@@ -250,14 +251,23 @@ http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,[COLOR yellow]---------USA---------[/COLOR]
 http://?
 
-#EXTINF:-1,Telemundo
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=7
+#EXTINF:-1,MX: Univision
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/828.ts
+
+#EXTINF:-1,LATINOS: NEXXO
+http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
+
+#EXTINF:-1,LATINOS: TELEMUNDO2
+http://104.236.200.163:1382/300815/wkaq/playlist.m3u8
+
+#EXTINF:-1,LATINOS: UNIVISION PR
+http://104.236.200.163:1382/300815/wlii/playlist.m3u8
+
+#EXTINF:-1,LATINOS: TELEMUNDO
+http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
 
 #EXTINF:-1,Unicable
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-
-#EXTINF:-1,Univision
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=6
 
 #EXTINF:-1,Unimás
 http://slp99.x10.bz/carga.php?canal=UniMasUS&cm=3602&nombre=US.m3u8
@@ -286,11 +296,20 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
-#EXTINF:-1,UFC Network Latinoamérica
-http://ufc.carlosjerson.tk/playlist.m3u8?token=d099eaa38bd581c34f33e5c67a
+#EXTINF:-1,UK: SKY Sport 5 HD
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/64.ts
 
-#EXTINF:-1,BoxNation
-http://89.248.172.57:1935/edge/_definst_/ok8rauezc0vsvaz/playlist.m3u8?wowzasessionid=1850364954&xs=_we_b2s4cmF1ZXpjMHZzdmF6fDE0NDY1NTAzODl8MjAxLjE3My44My4xMzR8NTYzN2YyYjVjNTY5NXwwMjc1OGY4OGNkNmFjYzM3MmUyYjFmMWQ2Yjg1ZjhmN2Y3MWZlYmE0
+#EXTINF:-1,UK: SKY Sport 4 HD
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/65.ts
+
+#EXTINF:-1,UK: SKY Sport 3 HD
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/66.ts
+
+#EXTINF:-1,UK: SKY Sport 2 HD
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/67.ts
+
+#EXTINF:-1,UK: SKY Sport 1 HD
+http://friendiptv.mine.nu:8000/live/iptvspain/Facebook/68.ts
 
 #EXTINF:-1,NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
