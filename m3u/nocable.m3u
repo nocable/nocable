@@ -205,6 +205,14 @@ rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 #EXTINF:-1,[COLOR yellow]---------COLOMBIA---------[/COLOR]
 http://?
 
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/72vdr4.jpg",Win Sports HD
+http://latino-webtv.ml/7878/wins.m3u8
+
+#EXTINF:-1,Caracol HD
+http://latino-webtv.ml/7878/caracol.m3u8
+
+#EXTINF:-1,RCN HD
+http://latino-webtv.ml/7878/rcn.m3u8
 
 #EXTINF:-1,Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
@@ -337,6 +345,9 @@ http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,[COLOR yellow]---------USA---------[/COLOR]
 http://?
 
+#EXTINF:-1, Univision
+http://latino-webtv.ml:86/6299/playlist.m3u8
+
 #EXTINF:-1,LATINOS: NEXXO
 http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
 
@@ -436,6 +447,12 @@ http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?=%2F.ts
 
 #EXTINF:-1,[COLOR yellow]---------NOTICIAS---------[/COLOR]
 http://?
+
+#EXTINF:-1, NTN 24
+http://latino-webtv.ml:86/1601/playlist.m3u8
+
+#EXTINF:-1, TV 5 Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
 #EXTINF:-1,Euronews
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
