@@ -39,8 +39,6 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]---------CANALES CABLE---------[/COLOR]
 http://?
 
-#EXTINF:-1,Victoria Secrets Channel
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
 #EXTINF:-1,E! Entertainment Television
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -80,9 +78,6 @@ http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535
 
 #EXTINF:-1,Golden HD
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,The Film Zone HD
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 #EXTINF:-1,De Pelicula HD
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -274,9 +269,6 @@ http://?
 #EXTINF:-1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 
-#EXTINF:-1,UCV HD
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-
 #EXTINF:-1,TVN Chile 
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
@@ -405,8 +397,6 @@ http://?
 #EXTINF:-1,WAPA TV
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310
 
-#EXTINF:-1,CDM
-rtmp://unoredcdn.net:1935/cadenadelmilagro playpath=myStream.sdp swfUrl=http://unoredcdn.com/mediaplayer/player.swf live=1 pageUrl=http://cdminternacional.com/cdmtv/cdm-hd-700-k/
 
 #EXTINF:-1,[COLOR yellow]---------HONDURAS---------[/COLOR]
 http://?
