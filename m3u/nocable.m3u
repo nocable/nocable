@@ -26,7 +26,15 @@ rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 
 #EXTINF:-1,Caracol HD
 
+http://latino-webtv.ml/7878/caracol.m3u8
+
+#EXTINF:-1,Caracol2HD
+
 rtmp://185.63.255.26/live/LCrivqEAys9C live=true swfVfy=true pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
+
+
+#EXTINF:-1,RCN
+http://latino-webtv.ml/7878/rcn.m3u8
 
 
 #EXTINF:-1,Win Sports
@@ -159,6 +167,179 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
 #EXTINF:-1,CADENA 3
 http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF:-1,[COLOR yellow]---------NUEVOS LINKS---------[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/5lrpqq.jpg",Fox HD
+http://latino-webtv.ml/mariocs.php?ch=201&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/30mv6eu.jpg",TNT HD
+http://latino-webtv.ml/mariocs.php?ch=435&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2vw9ti0.jpg",Fox Sports
+http://latino-webtv.ml/mariocs.php?ch=522&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/5e5vgh.jpg",Fox Sports 2
+http://latino-webtv.ml/mariocs.php?ch=527&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/vzhl37.jpg",ESPN HD
+http://latino-webtv.ml/mariocs.php?ch=516&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg",ESPN 2
+http://latino-webtv.ml/mariocs.php?ch=561&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg",ESPN 3
+http://latino-webtv.ml/mariocs.php?ch=520&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/15detc.jpg",Fox 1
+http://latino-webtv.ml/mariocs.php?ch=415&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg",Space HD
+http://latino-webtv.ml/mariocs.php?ch=445&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg",History HD
+http://latino-webtv.ml/mariocs.php?ch=353&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2u43ti1.jpg",Fox Action HD
+http://latino-webtv.ml/mariocs.php?ch=416&cl=03
+
+#EXTINF:-1 tvg-logo="http://static.timefor.tv/imgs/epg/logos/discoverysciencehd_big.png",Discovery Science
+http://latino-webtv.ml/mariocs.php?ch=381&cl=03
+
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20turbo.png",Discovery Turbo
+http://latino-webtv.ml/mariocs.php?ch=383&cl=03
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
+http://latino-webtv.ml/mariocs.php?ch=379&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/t5oakx.jpg",National Geographic
+http://latino-webtv.ml/mariocs.php?ch=377&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/33wsh0i.jpg",FX HD
+http://latino-webtv.ml/mariocs.php?ch=209&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg",TNT Series
+http://latino-webtv.ml/mariocs.php?ch=266&cl=03
+
+#EXTINF:-1 tvg-id="946" tvg-name="TCM" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/225.png" group-title="Cine", TCM America Latina
+http://latino-webtv.ml/mariocs.php?ch=496&cl=03
+
+#EXTINF:-1 tvg-logo="http://i60.tinypic.com/ws4gmb.jpg",Sony
+http://latino-webtv.ml/mariocs.php?ch=203&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34hx7kg.jpg",Cinemax
+http://latino-webtv.ml/mariocs.php?ch=481&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg",Nat Geo Wild HD
+http://latino-webtv.ml/mariocs.php?ch=355&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/j0vajn.jpg",Warner HD
+http://latino-webtv.ml/mariocs.php?ch=205&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/2py9nhx.jpg",Canal De Las Estrellas
+http://latino-webtv.ml/mariocs.php?ch=52&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2dw7wa8.jpg",Investigation Discovery
+http://latino-webtv.ml/mariocs.php?ch=263&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2hxvxol.jpg",Golden HD
+http://latino-webtv.ml/mariocs.php?ch=436&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/1zzj0j7.jpg",Cinecanal +
+http://latino-webtv.ml/mariocs.php?ch=430&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/1zzj0j7.jpg",Cinecanal
+http://latino-webtv.ml/mariocs.php?ch=480&cl=03
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/29f8c9h.jpg",Golden Edge
+http://latino-webtv.ml/mariocs.php?ch=484&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/ibgsc0.jpg",AMC HD
+http://latino-webtv.ml/mariocs.php?ch=490&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/jslztc.jpg",Studio Universal
+http://latino-webtv.ml/mariocs.php?ch=492&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2qu3ryx.jpg",Universal Channel
+http://latino-webtv.ml/mariocs.php?ch=207&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2wgcf3r.jpg",MTV
+http://latino-webtv.ml/mariocs.php?ch=726&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/2dijbyc.jpg",E!
+http://latino-webtv.ml/mariocs.php?ch=255&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/157kyhl.jpg",Fox Movies
+http://latino-webtv.ml/mariocs.php?ch=417&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/vybqk4.jpg",AXN HD
+http://latino-webtv.ml/mariocs.php?ch=213&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34q9t02.jpg",Fox Life
+http://latino-webtv.ml/mariocs.php?ch=271&cl=03
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2a516qd.jpg",Tlnovelas
+http://latino-webtv.ml/mariocs.php?ch=275&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/r8gewg.jpg",Discovery Home and Healt
+http://latino-webtv.ml/mariocs.php?ch=374&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/29nb9yt.jpg",BBC
+http://latino-webtv.ml/mariocs.php?ch=253&cl=03
+
+#EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg",Trutv HD
+http://latino-webtv.ml/mariocs.php?ch=215&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg",Azteca 7
+http://latino-webtv.ml/mariocs.php?ch=57&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2s8s3gl.jpg",Animal Planet
+http://latino-webtv.ml/mariocs.php?ch=373&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg",Nick HD
+http://latino-webtv.ml/mariocs.php?ch=315&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/4ug93n.jpg",Cartoon Network
+http://latino-webtv.ml/mariocs.php?ch=320&cl=03
+
+#EXTINF:-1 tvg-logo="http://i57.tinypic.com/312bb7l.jpg",Disney XD
+http://latino-webtv.ml/mariocs.php?ch=322&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2psivma.jpg",Disney Channel
+http://latino-webtv.ml/mariocs.php?ch=312&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23w8mrm.jpg",Nicktoons
+http://latino-webtv.ml/mariocs.php?ch=314&cl=03
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/dfczug.jpg",Tooncast
+http://latino-webtv.ml/mariocs.php?ch=328&cl=03
+
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/2ilo2b.jpg",Disney Junior
+http://latino-webtv.ml/mariocs.php?ch=308&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/50lbhw.jpg",Discovery Kids
+http://latino-webtv.ml/mariocs.php?ch=303&cl=03
+
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/219wd4x.jpg",Boomerang
+http://latino-webtv.ml/mariocs.php?ch=324&cl=03
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/16m6ozq.jpg",Distrito Comedia
+http://latino-webtv.ml/mariocs.php?ch=272&cl=03
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/qyb9tf.jpg",Syfy
+http://latino-webtv.ml/mariocs.php?ch=257&cl=03
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2up4ldc.jpg",Film Zone HD
+http://latino-webtv.ml/mariocs.php?ch=440&cl=03
+
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2jev779.jpg",Discovery HD Theater
+http://latino-webtv.ml/mariocs.php?ch=351&cl=03
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2yw8oio.jpg",TLC Discovery
+http://latino-webtv.ml/mariocs.php?ch=386&cl=03
+
 
 
 #EXTINF:-1,[COLOR yellow]---------NOVELAS---------[/COLOR]
