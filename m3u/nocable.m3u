@@ -6,197 +6,6 @@ http://?
 #EXTINF:-1,Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN 3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Sports
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Sports 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,NFL Network
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-
-#EXTINF:-1,NHL Network
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-<<<<<<< HEAD
-http://latino-webtv.ml/7878/caracol.m3u8
-
-#EXTINF:-1,Caracol2HD
-
-rtmp://185.63.255.26/live/LCrivqEAys9C live=true swfVfy=true pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
-=======
-#EXTINF:-1,PXTV
-http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?=%2F.ts
->>>>>>> origin/master
-
-#EXTINF:-1, CDN Sports
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-<<<<<<< HEAD
-#EXTINF:-1,RCN
-http://latino-webtv.ml/7878/rcn.m3u8
-
-
-#EXTINF:-1,Win Sports
-http://iptv.latino-webtv.com/win.m3u8
-=======
-#EXTINF:-1,[COLOR yellow]---------CANALES CABLE---------[/COLOR]
-http://?
->>>>>>> origin/master
-
-
-#EXTINF:-1,E! Entertainment Television
-http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-
-#EXTINF:-1,Fashion TV
-http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:-1,Distrito Comedia
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-
-#EXTINF:-1,Studio Universal
-http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,The Film Zone HD
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,Universal Channel
-http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,Universal HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,Cinecanal +
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Cinecanal
-http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,TNT HD
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,TNT
-http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,TNT Series
-http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Golden HD
-http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,De Pelicula HD
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Space
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Cinemax
-http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Golden Edge
-http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,TCM
-http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Universal HD
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Action HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Movies HD
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Cinema
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,A&E
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,FOX
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Fox Life
-http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,FX
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Garage TV
-http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Glitz
-http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Distrito Comedia
-http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,TBS
-http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,El Gourmet
-http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Sony
-http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Warner Channel
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,AXN
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,TruTV
-http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Comedy Central
-http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Unicable
-http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,BBC Entertainment
-http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,SyFy
-http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Mundo Fox
-http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429&f=mariocs.m3u8
-
-#EXTINF:-1,I.Sat
-http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
-#EXTINF:-1,TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Investigacion Discovery
-http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,NatGeo Wild
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Animal Planet
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Home and Health
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,History Channel
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 
 #EXTINF:-1,[COLOR yellow]---------PERU---------[/COLOR]
@@ -213,15 +22,6 @@ rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 
 #EXTINF:-1,[COLOR yellow]---------COLOMBIA---------[/COLOR]
 http://?
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/72vdr4.jpg",Win Sports HD
-http://latino-webtv.ml/7878/wins.m3u8
-
-#EXTINF:-1,Caracol HD
-http://latino-webtv.ml/7878/caracol.m3u8
-
-#EXTINF:-1,RCN HD
-http://latino-webtv.ml/7878/rcn.m3u8
 
 #EXTINF:-1,Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
@@ -283,8 +83,6 @@ http://?
 #EXTINF:-1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 
-#EXTINF:-1,TVN Chile 
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
 #EXTINF:-1,La Red 
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
@@ -293,8 +91,6 @@ http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
 #EXTINF:-1,[COLOR yellow]--------ESPANA---------[/COLOR]
 http://?
 
-#EXTINF:-1,TVE
-http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
@@ -306,29 +102,10 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1,[COLOR yellow]--------MEXICO---------[/COLOR]
 http://?
 
-#EXTINF:-1,Canal 2 HD - Mexico
-http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,Canal 5 HD - Mexico
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,Azteca 7 - Mexico
-http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,Ocho TV - Mexico
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 
-#EXTINF:-1,Foro TV HD
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,Gala TV
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,Multimedios Plus
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1,WOBI TV
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 #EXTINF:-1,El Trece Mexico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
@@ -339,8 +116,6 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,Azteca 7 Monterrey Mexico
  http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
-#EXTINF:-1,Canal 7
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
 #EXTINF:-1,Mexico 7
  http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
@@ -351,23 +126,7 @@ http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,[COLOR yellow]---------USA---------[/COLOR]
 http://?
 
-#EXTINF:-1, Univision
-http://latino-webtv.ml:86/6299/playlist.m3u8
 
-#EXTINF:-1,LATINOS: NEXXO
-http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
-
-#EXTINF:-1,LATINOS: TELEMUNDO2
-http://104.236.200.163:1382/300815/wkaq/playlist.m3u8
-
-#EXTINF:-1,LATINOS: UNIVISION PR
-http://104.236.200.163:1382/300815/wlii/playlist.m3u8
-
-#EXTINF:-1,LATINOS: TELEMUNDO
-http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
-
-#EXTINF:-1,Unicable
-http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
 #EXTINF:-1,[COLOR yellow]---------CUBA---------[/COLOR]
@@ -440,186 +199,7 @@ http://162.212.176.83:8080/teleprogreso.m3u8
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 
 
-#EXTINF:-1,[COLOR yellow]---------NUEVOS LINKS---------[/COLOR]
 
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/5lrpqq.jpg",Fox HD
-http://latino-webtv.ml/mariocs.php?ch=201&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/30mv6eu.jpg",TNT HD
-http://latino-webtv.ml/mariocs.php?ch=435&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2vw9ti0.jpg",Fox Sports
-http://latino-webtv.ml/mariocs.php?ch=522&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/5e5vgh.jpg",Fox Sports 2
-http://latino-webtv.ml/mariocs.php?ch=527&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/vzhl37.jpg",ESPN HD
-http://latino-webtv.ml/mariocs.php?ch=516&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg",ESPN 2
-http://latino-webtv.ml/mariocs.php?ch=561&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg",ESPN 3
-http://latino-webtv.ml/mariocs.php?ch=520&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/15detc.jpg",Fox 1
-http://latino-webtv.ml/mariocs.php?ch=415&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg",Space HD
-http://latino-webtv.ml/mariocs.php?ch=445&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg",History HD
-http://latino-webtv.ml/mariocs.php?ch=353&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2u43ti1.jpg",Fox Action HD
-http://latino-webtv.ml/mariocs.php?ch=416&cl=03
-
-#EXTINF:-1 tvg-logo="http://static.timefor.tv/imgs/epg/logos/discoverysciencehd_big.png",Discovery Science
-http://latino-webtv.ml/mariocs.php?ch=381&cl=03
-
-#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/discovery%20turbo.png",Discovery Turbo
-http://latino-webtv.ml/mariocs.php?ch=383&cl=03
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png",Lifetime
-http://latino-webtv.ml/mariocs.php?ch=379&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/t5oakx.jpg",National Geographic
-http://latino-webtv.ml/mariocs.php?ch=377&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/33wsh0i.jpg",FX HD
-http://latino-webtv.ml/mariocs.php?ch=209&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg",TNT Series
-http://latino-webtv.ml/mariocs.php?ch=266&cl=03
-
-#EXTINF:-1 tvg-id="946" tvg-name="TCM" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/225.png" group-title="Cine", TCM America Latina
-http://latino-webtv.ml/mariocs.php?ch=496&cl=03
-
-#EXTINF:-1 tvg-logo="http://i60.tinypic.com/ws4gmb.jpg",Sony
-http://latino-webtv.ml/mariocs.php?ch=203&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34hx7kg.jpg",Cinemax
-http://latino-webtv.ml/mariocs.php?ch=481&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg",Nat Geo Wild HD
-http://latino-webtv.ml/mariocs.php?ch=355&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/j0vajn.jpg",Warner HD
-http://latino-webtv.ml/mariocs.php?ch=205&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/2py9nhx.jpg",Canal De Las Estrellas
-http://latino-webtv.ml/mariocs.php?ch=52&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2dw7wa8.jpg",Investigation Discovery
-http://latino-webtv.ml/mariocs.php?ch=263&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2hxvxol.jpg",Golden HD
-http://latino-webtv.ml/mariocs.php?ch=436&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/1zzj0j7.jpg",Cinecanal +
-http://latino-webtv.ml/mariocs.php?ch=430&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/1zzj0j7.jpg",Cinecanal
-http://latino-webtv.ml/mariocs.php?ch=480&cl=03
-
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/29f8c9h.jpg",Golden Edge
-http://latino-webtv.ml/mariocs.php?ch=484&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/ibgsc0.jpg",AMC HD
-http://latino-webtv.ml/mariocs.php?ch=490&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/jslztc.jpg",Studio Universal
-http://latino-webtv.ml/mariocs.php?ch=492&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2qu3ryx.jpg",Universal Channel
-http://latino-webtv.ml/mariocs.php?ch=207&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/2wgcf3r.jpg",MTV
-http://latino-webtv.ml/mariocs.php?ch=726&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/2dijbyc.jpg",E!
-http://latino-webtv.ml/mariocs.php?ch=255&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/157kyhl.jpg",Fox Movies
-http://latino-webtv.ml/mariocs.php?ch=417&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/vybqk4.jpg",AXN HD
-http://latino-webtv.ml/mariocs.php?ch=213&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34q9t02.jpg",Fox Life
-http://latino-webtv.ml/mariocs.php?ch=271&cl=03
-
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2a516qd.jpg",Tlnovelas
-http://latino-webtv.ml/mariocs.php?ch=275&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/r8gewg.jpg",Discovery Home and Healt
-http://latino-webtv.ml/mariocs.php?ch=374&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/29nb9yt.jpg",BBC
-http://latino-webtv.ml/mariocs.php?ch=253&cl=03
-
-#EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg",Trutv HD
-http://latino-webtv.ml/mariocs.php?ch=215&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg",Azteca 7
-http://latino-webtv.ml/mariocs.php?ch=57&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2s8s3gl.jpg",Animal Planet
-http://latino-webtv.ml/mariocs.php?ch=373&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg",Nick HD
-http://latino-webtv.ml/mariocs.php?ch=315&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/4ug93n.jpg",Cartoon Network
-http://latino-webtv.ml/mariocs.php?ch=320&cl=03
-
-#EXTINF:-1 tvg-logo="http://i57.tinypic.com/312bb7l.jpg",Disney XD
-http://latino-webtv.ml/mariocs.php?ch=322&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2psivma.jpg",Disney Channel
-http://latino-webtv.ml/mariocs.php?ch=312&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23w8mrm.jpg",Nicktoons
-http://latino-webtv.ml/mariocs.php?ch=314&cl=03
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/dfczug.jpg",Tooncast
-http://latino-webtv.ml/mariocs.php?ch=328&cl=03
-
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/2ilo2b.jpg",Disney Junior
-http://latino-webtv.ml/mariocs.php?ch=308&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/50lbhw.jpg",Discovery Kids
-http://latino-webtv.ml/mariocs.php?ch=303&cl=03
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/219wd4x.jpg",Boomerang
-http://latino-webtv.ml/mariocs.php?ch=324&cl=03
-
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/16m6ozq.jpg",Distrito Comedia
-http://latino-webtv.ml/mariocs.php?ch=272&cl=03
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/qyb9tf.jpg",Syfy
-http://latino-webtv.ml/mariocs.php?ch=257&cl=03
-
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2up4ldc.jpg",Film Zone HD
-http://latino-webtv.ml/mariocs.php?ch=440&cl=03
-
-#EXTINF:-1 tvg-logo="http://i66.tinypic.com/2jev779.jpg",Discovery HD Theater
-http://latino-webtv.ml/mariocs.php?ch=351&cl=03
-
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2yw8oio.jpg",TLC Discovery
-http://latino-webtv.ml/mariocs.php?ch=386&cl=03
-
-
-
-#EXTINF:-1,[COLOR yellow]---------NOVELAS---------[/COLOR]
-http://?
-#EXTINF:-1,AZ Corazón
-http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,Tlnovelas
-http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?=%2F.ts
 
 
 #EXTINF:-1,[COLOR yellow]---------NOTICIAS---------[/COLOR]
@@ -637,9 +217,6 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1,Euronews Español
 http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
 
-#EXTINF:-1,Foro TV
-http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-
 #EXTINF:-1,i24 News English
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 
@@ -652,8 +229,6 @@ http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Russia Today
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 
-#EXTINF:-1,TeleFórmula
-http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
@@ -661,57 +236,13 @@ http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1,CBS News
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 
-#EXTINF:-1,Excelsior TV
-http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?=%2F.ts
 
-#EXTINF:-1,El Financiero Bloomberg
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,Milenio TV
-http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?=%2F.ts
 
 
 
 #EXTINF:-1,[COLOR yellow]---------KIDS---------[/COLOR]
 http://?
-#EXTINF:-1,Discovery Kids
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
-#EXTINF:-1,CBeebies
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Disney Jr
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Nick Jr
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Disney Channel
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,NICKTOONS
-http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Nick HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Nickelodeon (Nick)
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Cartoon Network
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Disney XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Boomerang
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,TIIN
-http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,Tooncast
-http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 #EXTINF:-1,Anime en EspaNol
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
@@ -726,20 +257,6 @@ http://j.gs/11042797/cartoon-network-stbox-m3u8
 #EXTINF:-1,[COLOR yellow]---------MUSICA---------[/COLOR]
 http://?
 
-#EXTINF:-1, MTV Live HD
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1, Telehit HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1, VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,VH1 Classic
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1, MTV
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 #EXTINF:-1,VEVO 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
@@ -756,11 +273,6 @@ http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:-1,Kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1,Ritmoson Latino
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?=%2F.ts
-
-#EXTINF:-1,Telehit HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?=%2F.ts
 
 #EXTINF:-1,Q Musica 
 mms://200.42.92.6:1755/qmusica
