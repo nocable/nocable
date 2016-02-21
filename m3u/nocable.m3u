@@ -6,6 +6,29 @@ http://?
 #EXTINF:-1,Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 
+#EXTINF:-1,COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:-1,COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:-1,DeporTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:-1,Real Madrid TV
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Redbull TV
+
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+
+#EXTINF:-1,EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,CDN SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]---------PERU---------[/COLOR]
@@ -77,6 +100,12 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
 #EXTINF:-1,El Trece
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 
+#EXTINF:-1,ViajAR
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1,Magazine Argentina
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+
 #EXTINF:-1,[COLOR yellow]---------CHILE---------[/COLOR]
 http://?
 
@@ -102,10 +131,14 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1,[COLOR yellow]--------MEXICO---------[/COLOR]
 http://?
 
+#EXTINF:-1,AZTECA 7 
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
-#EXTINF:-1,Ocho TV - Mexico
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,PROYECTO 40 
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 
+#EXTINF:-1,Multimedios TV
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
 #EXTINF:-1,El Trece Mexico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
@@ -117,9 +150,6 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
  http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
 
-#EXTINF:-1,Mexico 7
- http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-
 #EXTINF:-1,CADENA 3
 http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 
@@ -127,13 +157,6 @@ http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
 http://?
 
 
-
-
-#EXTINF:-1,[COLOR yellow]---------CUBA---------[/COLOR]
-http://?
-
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Cubavisión" group-title="CUBA",Cubavisión
-rtmp://195.154.174.31/beta playpath=cubavisiion swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf live=1 pageUrl=http://www.fidelista-por-siempre.org/CubaVision-en-Vivo.aspx
 
 #EXTINF:-1,[COLOR yellow]---------ECUADOR---------[/COLOR]
 http://?
@@ -205,14 +228,16 @@ http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,[COLOR yellow]---------NOTICIAS---------[/COLOR]
 http://?
 
-#EXTINF:-1, NTN 24
-http://latino-webtv.ml:86/1601/playlist.m3u8
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-id=, BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1, TV 5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
 
-#EXTINF:-1,Euronews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 
 #EXTINF:-1,Euronews Español
 http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
@@ -242,6 +267,21 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 
 #EXTINF:-1,[COLOR yellow]---------KIDS---------[/COLOR]
 http://?
+
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,CBeebies
+
+http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
+
+#EXTINF:-1,Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Tiin
+
+http://104.131.117.246:8081/chuy/76/2154-Tiin/playlist.m3u8
+
 
 
 #EXTINF:-1,Anime en EspaNol
@@ -279,6 +319,85 @@ mms://200.42.92.6:1755/qmusica
 
 #EXTINF:-1,Bandamax
 http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+
+
+#EXTINF:-1,[COLOR orange]--CANALES DE AUDIO--[/COLOR]
+m3u:http://pastebin.com/raw.php?i=fZJSHrYY
+
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
+http://buecrplb01.cienradios.com.ar/50_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",60's
+http://buecrplb01.cienradios.com.ar/60_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's
+http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Beatles
+http://108.61.73.119:8062/;stream.nsv
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80´s
+http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
+#EXTINF:-1 tvg-logo="radios.png",80's internacional
+http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80's USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Internacional
+http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
+http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
+http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Bossa Nova
+http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Brasil
+http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",BritPop
+http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Chillout
+http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Cuarteto
+http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Estrenos
+http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electronica
+http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electro Tango
+http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Fiesta Dance
+http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+#EXTINF:-1 tvg-logo="radios.png group-title="Audio - Radio"",Lentos
+http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Live music
+http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Raggae
+http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reggaeton
+http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Hits
+http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Latino
+http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Salsa
+http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Smooth Jazz
+http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top 40
+http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top Europa
+http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top USA
+http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Yoga
+http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reiki
+http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica
+http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+#EXTINF:-1 tvg-logo="radios.png",Clasica Cine
+http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
+http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 
 
