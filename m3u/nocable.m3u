@@ -3,9 +3,6 @@
 #EXTINF:-1,[COLOR yellow]---------DEPORTES---------[/COLOR]
 http://?
 
-#EXTINF:-1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-
 #EXTINF:-1,COS
 http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 
@@ -321,106 +318,20 @@ mms://200.42.92.6:1755/qmusica
 http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
 
 
-#EXTINF:-1,[COLOR orange]--CANALES DE AUDIO--[/COLOR]
-m3u:http://pastebin.com/raw.php?i=fZJSHrYY
 
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
-http://buecrplb01.cienradios.com.ar/50_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",60's
-http://buecrplb01.cienradios.com.ar/60_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's
-http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Beatles
-http://108.61.73.119:8062/;stream.nsv
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80´s
-http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",80's internacional
-http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
-http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Bossa Nova
-http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Brasil
-http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",BritPop
-http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Cuarteto
-http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electro Tango
-http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:-1 tvg-logo="radios.png group-title="Audio - Radio"",Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Raggae
-http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reggaeton
-http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Hits
-http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Latino
-http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Salsa
-http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Smooth Jazz
-http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top USA
-http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Yoga
-http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reiki
-http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
-http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nB4cF/95a5760e75.png" group-title="Nacionales", 52Mx
 http://live.tvplayerlatino.com/lista_remota/src3/EMlyL.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mzHPC/041856392c.png" group-title="Entretenimiento", A&E HD
 http://live.tvplayerlatino.com/lista_remota/src1/a9C5z.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mLYTH/da201a638f.png" group-title="Chile", Alcance TV
-http://live.tvplayerlatino.com/lista_remota/src3/yuMmS.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mKFxp/8639394676.png" group-title="Chile", Almavision
-http://live.tvplayerlatino.com/lista_remota/src3/1fyrj.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nsWca/48c59ef1e1.png" group-title="Musica", Amazing Music
 http://live.tvplayerlatino.com/lista_remota/src3/jObqB.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mw4g4/a91084b686.png" group-title="Entretenimiento", AMC
 http://live.tvplayerlatino.com/lista_remota/src1/fRonE.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mVRWU/b52c7bae84.png" group-title="Entretenimiento", AMC HD
-http://live.tvplayerlatino.com/lista_remota/src1/82qtB.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2WS/fc9ebdc9aa.png" group-title="Cultura", Animal Planet
 http://live.tvplayerlatino.com/lista_remota/src1/bEKOK.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB4zt/5473696c1c.png" group-title="Entretenimiento", Anime 24H
-http://live.tvplayerlatino.com/lista_remota/src3/jne6K.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nvqJO/067511efb9.png" group-title="Republica Dominicana", Antena Latina
 http://live.tvplayerlatino.com/lista_remota/src3/78ZGA.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/o8Yna/45ca11a996.png" group-title="Brasil", Aparecida Brasil
-http://live.tvplayerlatino.com/lista_remota/src3/apabr.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrN5/1fb2b222d3.png" group-title="Chile", Arica TV
 http://live.tvplayerlatino.com/lista_remota/src3/j0puq.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/msHrS/621c1fe27c.png" group-title="Entretenimiento", AXN HD
@@ -445,8 +356,6 @@ http://live.tvplayerlatino.com/lista_remota/src3/343Jz.m3u8
 http://live.tvplayerlatino.com/lista_remota/src3/qaoaQ.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mbLJ8/d224fa0bfd.png" group-title="Nacionales", Azteca Noticias
 http://live.tvplayerlatino.com/lista_remota/src3/kDEp7.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGMD/df42a7278f.png" group-title="Musica", Bandamax
-http://live.tvplayerlatino.com/lista_remota/src1/cxbdK.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mNQV7/fd6eb38b48.png" group-title="Entretenimiento", BBC Entertainment
 http://live.tvplayerlatino.com/lista_remota/src1/FnUGG.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="Noticias", Bloomberg
@@ -471,28 +380,14 @@ http://live.tvplayerlatino.com/lista_remota/src3/ktXRz.m3u8
 http://live.tvplayerlatino.com/lista_remota/src1/74511.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nC0GI/7fe67f1cfb.png" group-title="Argentina", Canal 9 Salta
 http://live.tvplayerlatino.com/lista_remota/src4/5ojYq.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdZH/663a3e814f.png" group-title="Nacionales", Canal de las Estrellas
-http://live.tvplayerlatino.com/lista_remota/ver/jWWnC.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrrV/7792a6c55e.png" group-title="Entretenimiento", Canal i
-http://live.tvplayerlatino.com/lista_remota/src4/BT7xV.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/obmth/d17aba2c00.png" group-title="Deportes", Canal Liga+
 http://live.tvplayerlatino.com/lista_remota/src4/cliga.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="Nacionales", Canal Once
-http://live.tvplayerlatino.com/lista_remota/src3/mnAwE.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/ngNOi/1d8822ade2.png" group-title="Musica", Canatinazo TV
-http://live.tvplayerlatino.com/lista_remota/src3/G8ML9.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB47o/1193f4ab34.png" group-title="Nacionales", Capital 21 CDMX
-http://live.tvplayerlatino.com/lista_remota/src3/OQy7P.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nu14h/bc7f29dd9b.png" group-title="Musica", Capital TV
-http://live.tvplayerlatino.com/lista_remota/src3/YrMVO.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb3LK/d8de536a18.png" group-title="Infantiles", Cartoon Network
 http://live.tvplayerlatino.com/lista_remota/src1/owHw3.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nC0HE/3b9c4c7f0a.png" group-title="Costa Rica", CB24 Noticias
 http://live.tvplayerlatino.com/lista_remota/src3/DSqdp.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdGb/5d2fd767c6.png" group-title="Infantiles", CBeebies
 http://live.tvplayerlatino.com/lista_remota/src3/5hgci.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nu1Z9/cfd308d7b6.png" group-title="Deportes", CDN Sportmax
-http://live.tvplayerlatino.com/lista_remota/src3/ZTqLE.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb54r/7d55ba9b4b.png" group-title="Peliculas", Cinecanal
 http://live.tvplayerlatino.com/lista_remota/src1/l7882.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4Xh/5cddb7e24a.png" group-title="Peliculas", Cinecanal+
@@ -553,8 +448,6 @@ http://live.tvplayerlatino.com/lista_remota/src3/kzdBk.m3u8
 http://live.tvplayerlatino.com/lista_remota/src3/ApQIv.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mKFj0/7ea13279b8.png" group-title="Chile", ESNE
 http://live.tvplayerlatino.com/lista_remota/src3/UDbAr.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mLZc6/a74000fc0b.png" group-title="Chile", Esperanza TV
-http://live.tvplayerlatino.com/lista_remota/src3/neIn2.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="Deportes", ESPN
 http://live.tvplayerlatino.com/lista_remota/src1/bnDLg.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes", ESPN 2
